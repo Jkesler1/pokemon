@@ -1,0 +1,12 @@
+Design Choices:
+Created seperate data class to source data from files. This should make switching the sources easier in the future.
+
+
+
+Issues:
+Inconsistent data can cause program to fail.
+
+
+
+Future enhancements:
+Learn and implement how to use try/catch code to handle data inconsistency

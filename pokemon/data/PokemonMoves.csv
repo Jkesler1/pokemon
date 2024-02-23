@@ -1,0 +1,932 @@
+Name,Accuracy,BasePower,Category,PP,Type
+10000000 Volt Thunderbolt,TRUE,195,Special,1,Electric
+Absorb,100,20,Special,25,Grass
+Accelerock,100,40,Physical,20,Rock
+Acid,100,40,Special,30,Poison
+Acid Armor,TRUE,0,Status,20,Poison
+Acid Downpour,TRUE,1,Physical,1,Poison
+Acid Spray,100,40,Special,20,Poison
+Acrobatics,100,55,Physical,15,Flying
+Acupressure,TRUE,0,Status,30,Normal
+Aerial Ace,TRUE,60,Physical,20,Flying
+Aeroblast,95,100,Special,5,Flying
+After You,TRUE,0,Status,15,Normal
+Agility,TRUE,0,Status,30,Psychic
+Air Cutter,95,60,Special,25,Flying
+Air Slash,95,75,Special,15,Flying
+All-Out Pummeling,TRUE,1,Physical,1,Fighting
+Ally Switch,TRUE,0,Status,15,Psychic
+Amnesia,TRUE,0,Status,20,Psychic
+Anchor Shot,100,80,Physical,20,Steel
+Ancient Power,100,60,Special,5,Rock
+Apple Acid,100,80,Special,10,Grass
+Aqua Cutter,100,70,Physical,20,Water
+Aqua Jet,100,40,Physical,20,Water
+Aqua Ring,TRUE,0,Status,20,Water
+Aqua Step,100,80,Physical,10,Water
+Aqua Tail,90,90,Physical,10,Water
+Armor Cannon,100,120,Special,5,Fire
+Arm Thrust,100,15,Physical,20,Fighting
+Aromatherapy,TRUE,0,Status,5,Grass
+Aromatic Mist,TRUE,0,Status,20,Fairy
+Assist,TRUE,0,Status,20,Normal
+Assurance,100,60,Physical,10,Dark
+Astonish,100,30,Physical,15,Ghost
+Astral Barrage,100,120,Special,5,Ghost
+Attack Order,100,90,Physical,15,Bug
+Attract,100,0,Status,15,Normal
+Aura Sphere,TRUE,80,Special,20,Fighting
+Aura Wheel,100,110,Physical,10,Electric
+Aurora Beam,100,65,Special,20,Ice
+Aurora Veil,TRUE,0,Status,20,Ice
+Autotomize,TRUE,0,Status,15,Steel
+Avalanche,100,60,Physical,10,Ice
+Axe Kick,90,120,Physical,10,Fighting
+Baby-Doll Eyes,100,0,Status,30,Fairy
+Baddy Bad,95,80,Special,15,Dark
+Baneful Bunker,TRUE,0,Status,10,Poison
+Barb Barrage,100,60,Physical,10,Poison
+Barrage,85,15,Physical,20,Normal
+Barrier,TRUE,0,Status,20,Psychic
+Baton Pass,TRUE,0,Status,40,Normal
+Beak Blast,100,100,Physical,15,Flying
+Beat Up,100,0,Physical,10,Dark
+Behemoth Bash,100,100,Physical,5,Steel
+Behemoth Blade,100,100,Physical,5,Steel
+Belch,90,120,Special,10,Poison
+Belly Drum,TRUE,0,Status,10,Normal
+Bestow,TRUE,0,Status,15,Normal
+Bide,TRUE,0,Physical,10,Normal
+Bind,85,15,Physical,20,Normal
+Bite,100,60,Physical,25,Dark
+Bitter Blade,100,90,Physical,10,Fire
+Bitter Malice,100,75,Special,10,Ghost
+Black Hole Eclipse,TRUE,1,Physical,1,Dark
+Blast Burn,90,150,Special,5,Fire
+Blaze Kick,90,85,Physical,10,Fire
+Blazing Torque,100,80,Physical,10,Fire
+Bleakwind Storm,80,100,Special,10,Flying
+Blizzard,70,110,Special,5,Ice
+Block,TRUE,0,Status,5,Normal
+Bloom Doom,TRUE,1,Physical,1,Grass
+Blue Flare,85,130,Special,5,Fire
+Body Press,100,80,Physical,10,Fighting
+Body Slam,100,85,Physical,15,Normal
+Bolt Beak,100,85,Physical,10,Electric
+Bolt Strike,85,130,Physical,5,Electric
+Bone Club,85,65,Physical,20,Ground
+Bonemerang,90,50,Physical,10,Ground
+Bone Rush,90,25,Physical,10,Ground
+Boomburst,100,140,Special,10,Normal
+Bounce,85,85,Physical,5,Flying
+Bouncy Bubble,100,60,Special,20,Water
+Branch Poke,100,40,Physical,40,Grass
+Brave Bird,100,120,Physical,15,Flying
+Breaking Swipe,100,60,Physical,15,Dragon
+Breakneck Blitz,TRUE,1,Physical,1,Normal
+Brick Break,100,75,Physical,15,Fighting
+Brine,100,65,Special,10,Water
+Brutal Swing,100,60,Physical,20,Dark
+Bubble,100,40,Special,30,Water
+Bubble Beam,100,65,Special,20,Water
+Bug Bite,100,60,Physical,20,Bug
+Bug Buzz,100,90,Special,10,Bug
+Bulk Up,TRUE,0,Status,20,Fighting
+Bulldoze,100,60,Physical,20,Ground
+Bullet Punch,100,40,Physical,30,Steel
+Bullet Seed,100,25,Physical,30,Grass
+Burning Jealousy,100,70,Special,5,Fire
+Burn Up,100,130,Special,5,Fire
+Buzzy Buzz,100,60,Special,20,Electric
+Calm Mind,TRUE,0,Status,20,Psychic
+Camouflage,TRUE,0,Status,20,Normal
+Captivate,100,0,Status,20,Normal
+Catastropika,TRUE,210,Physical,1,Electric
+Ceaseless Edge,90,65,Physical,15,Dark
+Celebrate,TRUE,0,Status,40,Normal
+Charge,TRUE,0,Status,20,Electric
+Charge Beam,90,50,Special,10,Electric
+Charm,100,0,Status,20,Fairy
+Chatter,100,65,Special,20,Flying
+Chilling Water,100,50,Special,20,Water
+Chilly Reception,TRUE,0,Status,10,Ice
+Chip Away,100,70,Physical,20,Normal
+Chloroblast,95,150,Special,5,Grass
+Circle Throw,90,60,Physical,10,Fighting
+Clamp,85,35,Physical,15,Water
+Clanging Scales,100,110,Special,5,Dragon
+Clangorous Soul,100,0,Status,5,Dragon
+Clangorous Soulblaze,TRUE,185,Special,1,Dragon
+Clear Smog,TRUE,50,Special,15,Poison
+Close Combat,100,120,Physical,5,Fighting
+Coaching,TRUE,0,Status,10,Fighting
+Coil,TRUE,0,Status,20,Poison
+Collision Course,100,100,Physical,5,Fighting
+Combat Torque,100,100,Physical,10,Fighting
+Comet Punch,85,18,Physical,15,Normal
+Comeuppance,100,0,Physical,10,Dark
+Confide,TRUE,0,Status,20,Normal
+Confuse Ray,100,0,Status,10,Ghost
+Confusion,100,50,Special,25,Psychic
+Constrict,100,10,Physical,35,Normal
+Continental Crush,TRUE,1,Physical,1,Rock
+Conversion,TRUE,0,Status,30,Normal
+Conversion 2,TRUE,0,Status,30,Normal
+Copycat,TRUE,0,Status,20,Normal
+Core Enforcer,100,100,Special,10,Dragon
+Corkscrew Crash,TRUE,1,Physical,1,Steel
+Corrosive Gas,100,0,Status,40,Poison
+Cosmic Power,TRUE,0,Status,20,Psychic
+Cotton Guard,TRUE,0,Status,10,Grass
+Cotton Spore,100,0,Status,40,Grass
+Counter,100,0,Physical,20,Fighting
+Court Change,100,0,Status,10,Normal
+Covet,100,60,Physical,25,Normal
+Crabhammer,90,100,Physical,10,Water
+Crafty Shield,TRUE,0,Status,10,Fairy
+Cross Chop,80,100,Physical,5,Fighting
+Cross Poison,100,70,Physical,20,Poison
+Crunch,100,80,Physical,15,Dark
+Crush Claw,95,75,Physical,10,Normal
+Crush Grip,100,0,Physical,5,Normal
+Curse,TRUE,0,Status,10,Ghost
+Cut,95,50,Physical,30,Normal
+Darkest Lariat,100,85,Physical,10,Dark
+Dark Pulse,100,80,Special,15,Dark
+Dark Void,50,0,Status,10,Dark
+Dazzling Gleam,100,80,Special,10,Fairy
+Decorate,TRUE,0,Status,15,Fairy
+Defend Order,TRUE,0,Status,10,Bug
+Defense Curl,TRUE,0,Status,40,Normal
+Defog,TRUE,0,Status,15,Flying
+Destiny Bond,TRUE,0,Status,5,Ghost
+Detect,TRUE,0,Status,5,Fighting
+Devastating Drake,TRUE,1,Physical,1,Dragon
+Diamond Storm,95,100,Physical,5,Rock
+Dig,100,80,Physical,10,Ground
+Disable,100,0,Status,20,Normal
+Disarming Voice,TRUE,40,Special,15,Fairy
+Discharge,100,80,Special,15,Electric
+Dire Claw,100,80,Physical,15,Poison
+Dive,100,80,Physical,10,Water
+Dizzy Punch,100,70,Physical,10,Normal
+Doodle,100,0,Status,10,Normal
+Doom Desire,100,140,Special,5,Steel
+Double-Edge,100,120,Physical,15,Normal
+Double Hit,90,35,Physical,10,Normal
+Double Iron Bash,100,60,Physical,5,Steel
+Double Kick,100,30,Physical,30,Fighting
+Double Shock,100,120,Physical,5,Electric
+Double Slap,85,15,Physical,10,Normal
+Double Team,TRUE,0,Status,15,Normal
+Draco Meteor,90,130,Special,5,Dragon
+Dragon Ascent,100,120,Physical,5,Flying
+Dragon Breath,100,60,Special,20,Dragon
+Dragon Claw,100,80,Physical,15,Dragon
+Dragon Dance,TRUE,0,Status,20,Dragon
+Dragon Darts,100,50,Physical,10,Dragon
+Dragon Energy,100,150,Special,5,Dragon
+Dragon Hammer,100,90,Physical,15,Dragon
+Dragon Pulse,100,85,Special,10,Dragon
+Dragon Rage,100,0,Special,10,Dragon
+Dragon Rush,75,100,Physical,10,Dragon
+Dragon Tail,90,60,Physical,10,Dragon
+Draining Kiss,100,50,Special,10,Fairy
+Drain Punch,100,75,Physical,10,Fighting
+Dream Eater,100,100,Special,15,Psychic
+Drill Peck,100,80,Physical,20,Flying
+Drill Run,95,80,Physical,10,Ground
+Drum Beating,100,80,Physical,10,Grass
+Dual Chop,90,40,Physical,15,Dragon
+Dual Wingbeat,90,40,Physical,10,Flying
+Dynamax Cannon,100,100,Special,5,Dragon
+Dynamic Punch,50,100,Physical,5,Fighting
+Earth Power,100,90,Special,10,Ground
+Earthquake,100,100,Physical,10,Ground
+Echoed Voice,100,40,Special,15,Normal
+Eerie Impulse,100,0,Status,15,Electric
+Eerie Spell,100,80,Special,5,Psychic
+Egg Bomb,75,100,Physical,10,Normal
+Electric Terrain,TRUE,0,Status,10,Electric
+Electrify,TRUE,0,Status,20,Electric
+Electro Ball,100,0,Special,10,Electric
+Electro Drift,100,100,Special,5,Electric
+Electroweb,95,55,Special,15,Electric
+Embargo,100,0,Status,15,Dark
+Ember,100,40,Special,25,Fire
+Encore,100,0,Status,5,Normal
+Endeavor,100,0,Physical,5,Normal
+Endure,TRUE,0,Status,10,Normal
+Energy Ball,100,90,Special,10,Grass
+Entrainment,100,0,Status,15,Normal
+Eruption,100,150,Special,5,Fire
+Esper Wing,100,80,Special,10,Psychic
+Eternabeam,90,160,Special,5,Dragon
+Expanding Force,100,80,Special,10,Psychic
+Explosion,100,250,Physical,5,Normal
+Extrasensory,100,80,Special,20,Psychic
+Extreme Evoboost,TRUE,0,Status,1,Normal
+Extreme Speed,100,80,Physical,5,Normal
+Facade,100,70,Physical,20,Normal
+Fairy Lock,TRUE,0,Status,10,Fairy
+Fairy Wind,100,40,Special,30,Fairy
+Fake Out,100,40,Physical,10,Normal
+Fake Tears,100,0,Status,20,Dark
+False Surrender,TRUE,80,Physical,10,Dark
+False Swipe,100,40,Physical,40,Normal
+Feather Dance,100,0,Status,15,Flying
+Feint,100,30,Physical,10,Normal
+Feint Attack,TRUE,60,Physical,20,Dark
+Fell Stinger,100,50,Physical,25,Bug
+Fiery Dance,100,80,Special,10,Fire
+Fiery Wrath,100,90,Special,10,Dark
+Fillet Away,TRUE,0,Status,10,Normal
+Final Gambit,100,0,Special,5,Fighting
+Fire Blast,85,110,Special,5,Fire
+Fire Fang,95,65,Physical,15,Fire
+Fire Lash,100,80,Physical,15,Fire
+Fire Pledge,100,80,Special,10,Fire
+Fire Punch,100,75,Physical,15,Fire
+Fire Spin,85,35,Special,15,Fire
+First Impression,100,90,Physical,10,Bug
+Fishious Rend,100,85,Physical,10,Water
+Fissure,30,0,Physical,5,Ground
+Flail,100,0,Physical,15,Normal
+Flame Burst,100,70,Special,15,Fire
+Flame Charge,100,50,Physical,20,Fire
+Flame Wheel,100,60,Physical,25,Fire
+Flamethrower,100,90,Special,15,Fire
+Flare Blitz,100,120,Physical,15,Fire
+Flash,100,0,Status,20,Normal
+Flash Cannon,100,80,Special,10,Steel
+Flatter,100,0,Status,15,Dark
+Fleur Cannon,90,130,Special,5,Fairy
+Fling,100,0,Physical,10,Dark
+Flip Turn,100,60,Physical,20,Water
+Floaty Fall,95,90,Physical,15,Flying
+Floral Healing,TRUE,0,Status,10,Fairy
+Flower Shield,TRUE,0,Status,10,Fairy
+Flower Trick,TRUE,70,Physical,10,Grass
+Fly,95,90,Physical,15,Flying
+Flying Press,95,100,Physical,10,Fighting
+Focus Blast,70,120,Special,5,Fighting
+Focus Energy,TRUE,0,Status,30,Normal
+Focus Punch,100,150,Physical,20,Fighting
+Follow Me,TRUE,0,Status,20,Normal
+Force Palm,100,60,Physical,10,Fighting
+Foresight,TRUE,0,Status,40,Normal
+Forest's Curse,100,0,Status,20,Grass
+Foul Play,100,95,Physical,15,Dark
+Freeze-Dry,100,70,Special,20,Ice
+Freeze Shock,90,140,Physical,5,Ice
+Freezing Glare,100,90,Special,10,Psychic
+Freezy Frost,90,100,Special,10,Ice
+Frenzy Plant,90,150,Special,5,Grass
+Frost Breath,90,60,Special,10,Ice
+Frustration,100,0,Physical,20,Normal
+Fury Attack,85,15,Physical,20,Normal
+Fury Cutter,95,40,Physical,20,Bug
+Fury Swipes,80,18,Physical,15,Normal
+Fusion Bolt,100,100,Physical,5,Electric
+Fusion Flare,100,100,Special,5,Fire
+Future Sight,100,120,Special,10,Psychic
+Gastro Acid,100,0,Status,10,Poison
+Gear Grind,85,50,Physical,15,Steel
+Gear Up,TRUE,0,Status,20,Steel
+Genesis Supernova,TRUE,185,Special,1,Psychic
+Geomancy,TRUE,0,Status,10,Fairy
+Giga Drain,100,75,Special,10,Grass
+Giga Impact,90,150,Physical,5,Normal
+Gigaton Hammer,100,160,Physical,5,Steel
+Gigavolt Havoc,TRUE,1,Physical,1,Electric
+Glacial Lance,100,120,Physical,5,Ice
+Glaciate,95,65,Special,10,Ice
+Glaive Rush,100,120,Physical,5,Dragon
+Glare,100,0,Status,30,Normal
+Glitzy Glow,95,80,Special,15,Psychic
+G-Max Befuddle,TRUE,10,Physical,5,Bug
+G-Max Cannonade,TRUE,10,Physical,10,Water
+G-Max Centiferno,TRUE,10,Physical,5,Fire
+G-Max Chi Strike,TRUE,10,Physical,5,Fighting
+G-Max Cuddle,TRUE,10,Physical,5,Normal
+G-Max Depletion,TRUE,10,Physical,5,Dragon
+G-Max Drum Solo,TRUE,160,Physical,5,Grass
+G-Max Finale,TRUE,10,Physical,5,Fairy
+G-Max Fireball,TRUE,160,Physical,5,Fire
+G-Max Foam Burst,TRUE,10,Physical,5,Water
+G-Max Gold Rush,TRUE,10,Physical,5,Normal
+G-Max Gravitas,TRUE,10,Physical,5,Psychic
+G-Max Hydrosnipe,TRUE,160,Physical,5,Water
+G-Max Malodor,TRUE,10,Physical,5,Poison
+G-Max Meltdown,TRUE,10,Physical,5,Steel
+G-Max One Blow,TRUE,10,Physical,5,Dark
+G-Max Rapid Flow,TRUE,10,Physical,5,Water
+G-Max Replenish,TRUE,10,Physical,5,Normal
+G-Max Resonance,TRUE,10,Physical,5,Ice
+G-Max Sandblast,TRUE,10,Physical,5,Ground
+G-Max Smite,TRUE,10,Physical,5,Fairy
+G-Max Snooze,TRUE,10,Physical,5,Dark
+G-Max Steelsurge,TRUE,10,Physical,5,Steel
+G-Max Stonesurge,TRUE,10,Physical,5,Water
+G-Max Stun Shock,TRUE,10,Physical,10,Electric
+G-Max Sweetness,TRUE,10,Physical,10,Grass
+G-Max Tartness,TRUE,10,Physical,10,Grass
+G-Max Terror,TRUE,10,Physical,10,Ghost
+G-Max Vine Lash,TRUE,10,Physical,10,Grass
+G-Max Volcalith,TRUE,10,Physical,10,Rock
+G-Max Volt Crash,TRUE,10,Physical,10,Electric
+G-Max Wildfire,TRUE,10,Physical,10,Fire
+G-Max Wind Rage,TRUE,10,Physical,10,Flying
+Grass Knot,100,0,Special,20,Grass
+Grass Pledge,100,80,Special,10,Grass
+Grass Whistle,55,0,Status,15,Grass
+Grassy Glide,100,60,Physical,20,Grass
+Grassy Terrain,TRUE,0,Status,10,Grass
+Grav Apple,100,80,Physical,10,Grass
+Gravity,TRUE,0,Status,5,Psychic
+Growl,100,0,Status,40,Normal
+Growth,TRUE,0,Status,20,Normal
+Grudge,TRUE,0,Status,5,Ghost
+Guardian of Alola,TRUE,0,Special,1,Fairy
+Guard Split,TRUE,0,Status,10,Psychic
+Guard Swap,TRUE,0,Status,10,Psychic
+Guillotine,30,0,Physical,5,Normal
+Gunk Shot,80,120,Physical,5,Poison
+Gust,100,40,Special,35,Flying
+Gyro Ball,100,0,Physical,5,Steel
+Hail,TRUE,0,Status,10,Ice
+Hammer Arm,90,100,Physical,10,Fighting
+Happy Hour,TRUE,0,Status,30,Normal
+Harden,TRUE,0,Status,30,Normal
+Haze,TRUE,0,Status,30,Ice
+Headbutt,100,70,Physical,15,Normal
+Head Charge,100,120,Physical,15,Normal
+Headlong Rush,100,120,Physical,5,Ground
+Head Smash,80,150,Physical,5,Rock
+Heal Bell,TRUE,0,Status,5,Normal
+Heal Block,100,0,Status,15,Psychic
+Healing Wish,TRUE,0,Status,10,Psychic
+Heal Order,TRUE,0,Status,10,Bug
+Heal Pulse,TRUE,0,Status,10,Psychic
+Heart Stamp,100,60,Physical,25,Psychic
+Heart Swap,TRUE,0,Status,10,Psychic
+Heat Crash,100,0,Physical,10,Fire
+Heat Wave,90,95,Special,10,Fire
+Heavy Slam,100,0,Physical,10,Steel
+Helping Hand,TRUE,0,Status,20,Normal
+Hex,100,65,Special,10,Ghost
+Hidden Power,100,60,Special,15,Normal
+Hidden Power Bug,100,60,Special,15,Bug
+Hidden Power Dark,100,60,Special,15,Dark
+Hidden Power Dragon,100,60,Special,15,Dragon
+Hidden Power Electric,100,60,Special,15,Electric
+Hidden Power Fighting,100,60,Special,15,Fighting
+Hidden Power Fire,100,60,Special,15,Fire
+Hidden Power Flying,100,60,Special,15,Flying
+Hidden Power Ghost,100,60,Special,15,Ghost
+Hidden Power Grass,100,60,Special,15,Grass
+Hidden Power Ground,100,60,Special,15,Ground
+Hidden Power Ice,100,60,Special,15,Ice
+Hidden Power Poison,100,60,Special,15,Poison
+Hidden Power Psychic,100,60,Special,15,Psychic
+Hidden Power Rock,100,60,Special,15,Rock
+Hidden Power Steel,100,60,Special,15,Steel
+Hidden Power Water,100,60,Special,15,Water
+High Horsepower,95,95,Physical,10,Ground
+High Jump Kick,90,130,Physical,10,Fighting
+Hold Back,100,40,Physical,40,Normal
+Hold Hands,TRUE,0,Status,40,Normal
+Hone Claws,TRUE,0,Status,15,Dark
+Horn Attack,100,65,Physical,25,Normal
+Horn Drill,30,0,Physical,5,Normal
+Horn Leech,100,75,Physical,10,Grass
+Howl,TRUE,0,Status,40,Normal
+Hurricane,70,110,Special,10,Flying
+Hydro Cannon,90,150,Special,5,Water
+Hydro Pump,80,110,Special,5,Water
+Hydro Vortex,TRUE,1,Physical,1,Water
+Hyper Beam,90,150,Special,5,Normal
+Hyper Drill,100,100,Physical,5,Normal
+Hyper Fang,90,80,Physical,15,Normal
+Hyperspace Fury,TRUE,100,Physical,5,Dark
+Hyperspace Hole,TRUE,80,Special,5,Psychic
+Hyper Voice,100,90,Special,10,Normal
+Hypnosis,60,0,Status,20,Psychic
+Ice Ball,90,30,Physical,20,Ice
+Ice Beam,100,90,Special,10,Ice
+Ice Burn,90,140,Special,5,Ice
+Ice Fang,95,65,Physical,15,Ice
+Ice Hammer,90,100,Physical,10,Ice
+Ice Punch,100,75,Physical,15,Ice
+Ice Shard,100,40,Physical,30,Ice
+Ice Spinner,100,80,Physical,15,Ice
+Icicle Crash,90,85,Physical,10,Ice
+Icicle Spear,100,25,Physical,30,Ice
+Icy Wind,95,55,Special,15,Ice
+Imprison,TRUE,0,Status,10,Psychic
+Incinerate,100,60,Special,15,Fire
+Infernal Parade,100,60,Special,15,Ghost
+Inferno,50,100,Special,5,Fire
+Inferno Overdrive,TRUE,1,Physical,1,Fire
+Infestation,100,20,Special,20,Bug
+Ingrain,TRUE,0,Status,20,Grass
+Instruct,TRUE,0,Status,15,Psychic
+Ion Deluge,TRUE,0,Status,25,Electric
+Iron Defense,TRUE,0,Status,15,Steel
+Iron Head,100,80,Physical,15,Steel
+Iron Tail,75,100,Physical,15,Steel
+Jaw Lock,100,80,Physical,10,Dark
+Jet Punch,100,60,Physical,15,Water
+Judgment,100,100,Special,10,Normal
+Jump Kick,95,100,Physical,10,Fighting
+Jungle Healing,TRUE,0,Status,10,Grass
+Karate Chop,100,50,Physical,25,Fighting
+Kinesis,80,0,Status,15,Psychic
+King's Shield,TRUE,0,Status,10,Steel
+Knock Off,100,65,Physical,20,Dark
+Kowtow Cleave,TRUE,85,Physical,10,Dark
+Land's Wrath,100,90,Physical,10,Ground
+Laser Focus,TRUE,0,Status,30,Normal
+Lash Out,100,75,Physical,5,Dark
+Last Resort,100,140,Physical,5,Normal
+Last Respects,100,50,Physical,10,Ghost
+Lava Plume,100,80,Special,15,Fire
+Leafage,100,40,Physical,40,Grass
+Leaf Blade,100,90,Physical,15,Grass
+Leaf Storm,90,130,Special,5,Grass
+Leaf Tornado,90,65,Special,10,Grass
+Leech Life,100,80,Physical,10,Bug
+Leech Seed,90,0,Status,10,Grass
+Leer,100,0,Status,30,Normal
+Let's Snuggle Forever,TRUE,190,Physical,1,Fairy
+Lick,100,30,Physical,30,Ghost
+Life Dew,TRUE,0,Status,10,Water
+Light of Ruin,90,140,Special,5,Fairy
+Light Screen,TRUE,0,Status,30,Psychic
+Light That Burns the Sky,TRUE,200,Special,1,Psychic
+Liquidation,100,85,Physical,10,Water
+Lock-On,TRUE,0,Status,5,Normal
+Lovely Kiss,75,0,Status,10,Normal
+Low Kick,100,0,Physical,20,Fighting
+Low Sweep,100,65,Physical,20,Fighting
+Lucky Chant,TRUE,0,Status,30,Normal
+Lumina Crash,100,80,Special,10,Psychic
+Lunar Blessing,TRUE,0,Status,5,Psychic
+Lunar Dance,TRUE,0,Status,10,Psychic
+Lunge,100,80,Physical,15,Bug
+Luster Purge,100,70,Special,5,Psychic
+Mach Punch,100,40,Physical,30,Fighting
+Magical Leaf,TRUE,60,Special,20,Grass
+Magical Torque,100,100,Physical,10,Fairy
+Magic Coat,TRUE,0,Status,15,Psychic
+Magic Powder,100,0,Status,20,Psychic
+Magic Room,TRUE,0,Status,10,Psychic
+Magma Storm,75,100,Special,5,Fire
+Magnet Bomb,TRUE,60,Physical,20,Steel
+Magnetic Flux,TRUE,0,Status,20,Electric
+Magnet Rise,TRUE,0,Status,10,Electric
+Magnitude,100,0,Physical,30,Ground
+Make It Rain,100,120,Special,5,Steel
+Malicious Moonsault,TRUE,180,Physical,1,Dark
+Mat Block,TRUE,0,Status,10,Fighting
+Max Airstream,TRUE,10,Physical,10,Flying
+Max Darkness,TRUE,10,Physical,10,Dark
+Max Flare,TRUE,100,Physical,10,Fire
+Max Flutterby,TRUE,10,Physical,10,Bug
+Max Geyser,TRUE,10,Physical,10,Water
+Max Guard,TRUE,0,Status,10,Normal
+Max Hailstorm,TRUE,10,Physical,10,Ice
+Max Knuckle,TRUE,10,Physical,10,Fighting
+Max Lightning,TRUE,10,Physical,10,Electric
+Max Mindstorm,TRUE,10,Physical,10,Psychic
+Max Ooze,TRUE,10,Physical,10,Poison
+Max Overgrowth,TRUE,10,Physical,10,Grass
+Max Phantasm,TRUE,10,Physical,10,Ghost
+Max Quake,TRUE,10,Physical,10,Ground
+Max Rockfall,TRUE,10,Physical,10,Rock
+Max Starfall,TRUE,10,Physical,10,Fairy
+Max Steelspike,TRUE,10,Physical,10,Steel
+Max Strike,TRUE,10,Physical,10,Normal
+Max Wyrmwind,TRUE,10,Physical,10,Dragon
+Mean Look,TRUE,0,Status,5,Normal
+Meditate,TRUE,0,Status,40,Psychic
+Me First,TRUE,0,Status,20,Normal
+Mega Drain,100,40,Special,15,Grass
+Megahorn,85,120,Physical,10,Bug
+Mega Kick,75,120,Physical,5,Normal
+Mega Punch,85,80,Physical,20,Normal
+Memento,100,0,Status,10,Dark
+Menacing Moonraze Maelstrom,TRUE,200,Special,1,Ghost
+Metal Burst,100,0,Physical,10,Steel
+Metal Claw,95,50,Physical,35,Steel
+Metal Sound,85,0,Status,40,Steel
+Meteor Assault,100,150,Physical,5,Fighting
+Meteor Beam,90,120,Special,10,Rock
+Meteor Mash,90,90,Physical,10,Steel
+Metronome,TRUE,0,Status,10,Normal
+Milk Drink,TRUE,0,Status,5,Normal
+Mimic,TRUE,0,Status,10,Normal
+Mind Blown,100,150,Special,5,Fire
+Mind Reader,TRUE,0,Status,5,Normal
+Minimize,TRUE,0,Status,10,Normal
+Miracle Eye,TRUE,0,Status,40,Psychic
+Mirror Coat,100,0,Special,20,Psychic
+Mirror Move,TRUE,0,Status,20,Flying
+Mirror Shot,85,65,Special,10,Steel
+Mist,TRUE,0,Status,30,Ice
+Mist Ball,100,70,Special,5,Psychic
+Misty Explosion,100,100,Special,5,Fairy
+Misty Terrain,TRUE,0,Status,10,Fairy
+Moonblast,100,95,Special,15,Fairy
+Moongeist Beam,100,100,Special,5,Ghost
+Moonlight,TRUE,0,Status,5,Fairy
+Morning Sun,TRUE,0,Status,5,Normal
+Mortal Spin,100,30,Physical,15,Poison
+Mountain Gale,85,100,Physical,10,Ice
+Mud Bomb,85,65,Special,10,Ground
+Mud Shot,95,55,Special,15,Ground
+Mud-Slap,100,20,Special,10,Ground
+Mud Sport,TRUE,0,Status,15,Ground
+Muddy Water,85,90,Special,10,Water
+Multi-Attack,100,120,Physical,10,Normal
+Mystical Fire,100,75,Special,10,Fire
+Mystical Power,90,70,Special,10,Psychic
+Nasty Plot,TRUE,0,Status,20,Dark
+Natural Gift,100,0,Physical,15,Normal
+Nature Power,TRUE,0,Status,20,Normal
+Nature's Madness,90,0,Special,10,Fairy
+Needle Arm,100,60,Physical,15,Grass
+Never-Ending Nightmare,TRUE,1,Physical,1,Ghost
+Night Daze,95,85,Special,10,Dark
+Nightmare,100,0,Status,15,Ghost
+Night Shade,100,0,Special,15,Ghost
+Night Slash,100,70,Physical,15,Dark
+Noble Roar,100,0,Status,30,Normal
+No Retreat,TRUE,0,Status,5,Fighting
+Noxious Torque,100,100,Physical,10,Poison
+Nuzzle,100,20,Physical,20,Electric
+Oblivion Wing,100,80,Special,10,Flying
+Obstruct,100,0,Status,10,Dark
+Oceanic Operetta,TRUE,195,Special,1,Water
+Octazooka,85,65,Special,10,Water
+Octolock,100,0,Status,15,Fighting
+Odor Sleuth,TRUE,0,Status,40,Normal
+Ominous Wind,100,60,Special,5,Ghost
+Order Up,100,80,Physical,10,Dragon
+Origin Pulse,85,110,Special,10,Water
+Outrage,100,120,Physical,10,Dragon
+Overdrive,100,80,Special,10,Electric
+Overheat,90,130,Special,5,Fire
+Pain Split,TRUE,0,Status,20,Normal
+Paleo Wave,100,85,Special,15,Rock
+Parabolic Charge,100,65,Special,20,Electric
+Parting Shot,100,0,Status,20,Dark
+Payback,100,50,Physical,10,Dark
+Pay Day,100,40,Physical,20,Normal
+Peck,100,35,Physical,35,Flying
+Perish Song,TRUE,0,Status,5,Normal
+Petal Blizzard,100,90,Physical,15,Grass
+Petal Dance,100,120,Special,10,Grass
+Phantom Force,100,90,Physical,10,Ghost
+Photon Geyser,100,100,Special,5,Psychic
+Pika Papow,TRUE,0,Special,20,Electric
+Pin Missile,95,25,Physical,20,Bug
+Plasma Fists,100,100,Physical,15,Electric
+Play Nice,TRUE,0,Status,20,Normal
+Play Rough,90,90,Physical,10,Fairy
+Pluck,100,60,Physical,20,Flying
+Poison Fang,100,50,Physical,15,Poison
+Poison Gas,90,0,Status,40,Poison
+Poison Jab,100,80,Physical,20,Poison
+Poison Powder,75,0,Status,35,Poison
+Poison Sting,100,15,Physical,35,Poison
+Poison Tail,100,50,Physical,25,Poison
+Pollen Puff,100,90,Special,15,Bug
+Poltergeist,90,110,Physical,5,Ghost
+Population Bomb,90,20,Physical,10,Normal
+Pounce,100,50,Physical,20,Bug
+Pound,100,40,Physical,35,Normal
+Powder,100,0,Status,20,Bug
+Powder Snow,100,40,Special,25,Ice
+Power Gem,100,80,Special,20,Rock
+Power Shift,TRUE,0,Status,10,Normal
+Power Split,TRUE,0,Status,10,Psychic
+Power Swap,TRUE,0,Status,10,Psychic
+Power Trick,TRUE,0,Status,10,Psychic
+Power Trip,100,20,Physical,10,Dark
+Power Up Punch,100,40,Physical,20,Fighting
+Power Whip,85,120,Physical,10,Grass
+Precipice Blades,85,120,Physical,10,Ground
+Present,90,0,Physical,15,Normal
+Prismatic Laser,100,160,Special,10,Psychic
+Protect,TRUE,0,Status,10,Normal
+Psybeam,100,65,Special,20,Psychic
+Psych Up,TRUE,0,Status,10,Normal
+Psychic,100,90,Special,10,Psychic
+Psychic Fangs,100,85,Physical,10,Psychic
+Psychic Terrain,TRUE,0,Status,10,Psychic
+Psycho Boost,90,140,Special,5,Psychic
+Psycho Cut,100,70,Physical,20,Psychic
+Psycho Shift,100,0,Status,10,Psychic
+Psyshield Bash,90,70,Physical,10,Psychic
+Psyshock,100,80,Special,10,Psychic
+Psystrike,100,100,Special,10,Psychic
+Psywave,100,0,Special,15,Psychic
+Pulverizing Pancake,TRUE,210,Physical,1,Normal
+Punishment,100,0,Physical,5,Dark
+Purify,TRUE,0,Status,20,Poison
+Pursuit,100,40,Physical,20,Dark
+Pyro Ball,90,120,Physical,5,Fire
+Quash,100,0,Status,15,Dark
+Quick Attack,100,40,Physical,30,Normal
+Quick Guard,TRUE,0,Status,15,Fighting
+Quiver Dance,TRUE,0,Status,20,Bug
+Rage,100,20,Physical,20,Normal
+Rage Fist,100,50,Physical,10,Ghost
+Rage Powder,TRUE,0,Status,20,Bug
+Raging Bull,100,90,Physical,10,Normal
+Raging Fury,100,120,Physical,10,Fire
+Rain Dance,TRUE,0,Status,5,Water
+Rapid Spin,100,50,Physical,40,Normal
+Razor Leaf,95,55,Physical,25,Grass
+Razor Shell,95,75,Physical,10,Water
+Razor Wind,100,80,Special,10,Normal
+Recover,TRUE,0,Status,5,Normal
+Recycle,TRUE,0,Status,10,Normal
+Reflect,TRUE,0,Status,20,Psychic
+Reflect Type,TRUE,0,Status,15,Normal
+Refresh,TRUE,0,Status,20,Normal
+Relic Song,100,75,Special,10,Normal
+Rest,TRUE,0,Status,5,Psychic
+Retaliate,100,70,Physical,5,Normal
+Return,100,0,Physical,20,Normal
+Revelation Dance,100,90,Special,15,Normal
+Revenge,100,60,Physical,10,Fighting
+Reversal,100,0,Physical,15,Fighting
+Revival Blessing,TRUE,0,Status,1,Normal
+Rising Voltage,100,70,Special,20,Electric
+Roar,TRUE,0,Status,20,Normal
+Roar of Time,90,150,Special,5,Dragon
+Rock Blast,90,25,Physical,10,Rock
+Rock Climb,85,90,Physical,20,Normal
+Rock Polish,TRUE,0,Status,20,Rock
+Rock Slide,90,75,Physical,10,Rock
+Rock Smash,100,40,Physical,15,Fighting
+Rock Throw,90,50,Physical,15,Rock
+Rock Tomb,95,60,Physical,15,Rock
+Rock Wrecker,90,150,Physical,5,Rock
+Role Play,TRUE,0,Status,10,Psychic
+Rolling Kick,85,60,Physical,15,Fighting
+Rollout,90,30,Physical,20,Rock
+Roost,TRUE,0,Status,5,Flying
+Rototiller,TRUE,0,Status,10,Ground
+Round,100,60,Special,15,Normal
+Ruination,90,0,Special,10,Dark
+Sacred Fire,95,100,Physical,5,Fire
+Sacred Sword,100,90,Physical,15,Fighting
+Safeguard,TRUE,0,Status,25,Normal
+Salt Cure,100,40,Physical,15,Rock
+Sand Attack,100,0,Status,15,Ground
+Sandsear Storm,80,100,Special,10,Ground
+Sandstorm,TRUE,0,Status,10,Rock
+Sand Tomb,85,35,Physical,15,Ground
+Sappy Seed,90,100,Physical,10,Grass
+Savage Spin-Out,TRUE,1,Physical,1,Bug
+Scald,100,80,Special,15,Water
+Scale Shot,90,25,Physical,20,Dragon
+Scary Face,100,0,Status,10,Normal
+Scorching Sands,100,70,Special,10,Ground
+Scratch,100,40,Physical,35,Normal
+Screech,85,0,Status,40,Normal
+Searing Shot,100,100,Special,5,Fire
+Searing Sunraze Smash,TRUE,200,Physical,1,Steel
+Secret Power,100,70,Physical,20,Normal
+Secret Sword,100,85,Special,10,Fighting
+Seed Bomb,100,80,Physical,15,Grass
+Seed Flare,85,120,Special,5,Grass
+Seismic Toss,100,0,Physical,20,Fighting
+Self-Destruct,100,200,Physical,5,Normal
+Shadow Ball,100,80,Special,15,Ghost
+Shadow Bone,100,85,Physical,10,Ghost
+Shadow Claw,100,70,Physical,15,Ghost
+Shadow Force,100,120,Physical,5,Ghost
+Shadow Punch,TRUE,60,Physical,20,Ghost
+Shadow Sneak,100,40,Physical,30,Ghost
+Shadow Strike,95,80,Physical,10,Ghost
+Sharpen,TRUE,0,Status,30,Normal
+Shattered Psyche,TRUE,1,Physical,1,Psychic
+Shed Tail,TRUE,0,Status,10,Normal
+Sheer Cold,30,0,Special,5,Ice
+Shell Side Arm,100,90,Special,10,Poison
+Shell Smash,TRUE,0,Status,15,Normal
+Shell Trap,100,150,Special,5,Fire
+Shelter,TRUE,0,Status,10,Steel
+Shift Gear,TRUE,0,Status,10,Steel
+Shock Wave,TRUE,60,Special,20,Electric
+Shore Up,TRUE,0,Status,5,Ground
+Signal Beam,100,75,Special,15,Bug
+Silk Trap,TRUE,0,Status,10,Bug
+Silver Wind,100,60,Special,5,Bug
+Simple Beam,100,0,Status,15,Normal
+Sing,55,0,Status,15,Normal
+Sinister Arrow Raid,TRUE,180,Physical,1,Ghost
+Sizzly Slide,100,60,Physical,20,Fire
+Sketch,TRUE,0,Status,1,Normal
+Skill Swap,TRUE,0,Status,10,Psychic
+Skitter Smack,90,70,Physical,10,Bug
+Skull Bash,100,130,Physical,10,Normal
+Sky Attack,90,140,Physical,5,Flying
+Sky Drop,100,60,Physical,10,Flying
+Sky Uppercut,90,85,Physical,15,Fighting
+Slack Off,TRUE,0,Status,5,Normal
+Slam,75,80,Physical,20,Normal
+Slash,100,70,Physical,20,Normal
+Sleep Powder,75,0,Status,15,Grass
+Sleep Talk,TRUE,0,Status,10,Normal
+Sludge,100,65,Special,20,Poison
+Sludge Bomb,100,90,Special,10,Poison
+Sludge Wave,100,95,Special,10,Poison
+Smack Down,100,50,Physical,15,Rock
+Smart Strike,TRUE,70,Physical,10,Steel
+Smelling Salts,100,70,Physical,10,Normal
+Smog,70,30,Special,20,Poison
+Smokescreen,100,0,Status,20,Normal
+Snap Trap,100,35,Physical,15,Grass
+Snarl,95,55,Special,15,Dark
+Snatch,TRUE,0,Status,10,Dark
+Snipe Shot,100,80,Special,15,Water
+Snore,100,50,Special,15,Normal
+Snowscape,TRUE,0,Status,10,Ice
+Soak,100,0,Status,20,Water
+Soft-Boiled,TRUE,0,Status,5,Normal
+Solar Beam,100,120,Special,10,Grass
+Solar Blade,100,125,Physical,10,Grass
+Sonic Boom,90,0,Special,20,Normal
+Soul-Stealing 7-Star Strike,TRUE,195,Physical,1,Ghost
+Spacial Rend,95,100,Special,5,Dragon
+Spark,100,65,Physical,20,Electric
+Sparkling Aria,100,90,Special,10,Water
+Sparkly Swirl,85,120,Special,5,Fairy
+Spectral Thief,100,90,Physical,10,Ghost
+Speed Swap,TRUE,0,Status,10,Psychic
+Spicy Extract,TRUE,0,Status,15,Grass
+Spider Web,TRUE,0,Status,10,Bug
+Spike Cannon,100,20,Physical,15,Normal
+Spikes,TRUE,0,Status,20,Ground
+Spiky Shield,TRUE,0,Status,10,Grass
+Spin Out,100,100,Physical,5,Steel
+Spirit Break,100,75,Physical,15,Fairy
+Spirit Shackle,100,80,Physical,10,Ghost
+Spit Up,100,0,Special,10,Normal
+Spite,100,0,Status,10,Ghost
+Splash,TRUE,0,Status,40,Normal
+Splintered Stormshards,TRUE,190,Physical,1,Rock
+Splishy Splash,100,90,Special,15,Water
+Spore,100,0,Status,15,Grass
+Spotlight,TRUE,0,Status,15,Normal
+Springtide Storm,80,100,Special,5,Fairy
+Stealth Rock,TRUE,0,Status,20,Rock
+Steam Eruption,95,110,Special,5,Water
+Steamroller,100,65,Physical,20,Bug
+Steel Beam,95,140,Special,5,Steel
+Steel Roller,100,130,Physical,5,Steel
+Steel Wing,90,70,Physical,25,Steel
+Sticky Web,TRUE,0,Status,20,Bug
+Stockpile,TRUE,0,Status,20,Normal
+Stoked Sparksurfer,TRUE,175,Special,1,Electric
+Stomp,100,65,Physical,20,Normal
+Stomping Tantrum,100,75,Physical,10,Ground
+Stone Axe,90,65,Physical,15,Rock
+Stone Edge,80,100,Physical,5,Rock
+Stored Power,100,20,Special,10,Psychic
+Storm Throw,100,60,Physical,10,Fighting
+Strange Steam,95,90,Special,10,Fairy
+Strength,100,80,Physical,15,Normal
+Strength Sap,100,0,Status,10,Grass
+String Shot,95,0,Status,40,Bug
+Struggle,TRUE,50,Physical,1,Normal
+Struggle Bug,100,50,Special,20,Bug
+Stuff Cheeks,TRUE,0,Status,10,Normal
+Stun Spore,75,0,Status,30,Grass
+Submission,80,80,Physical,20,Fighting
+Substitute,TRUE,0,Status,10,Normal
+Subzero Slammer,TRUE,1,Physical,1,Ice
+Sucker Punch,100,70,Physical,5,Dark
+Sunny Day,TRUE,0,Status,5,Fire
+Sunsteel Strike,100,100,Physical,5,Steel
+Super Fang,90,0,Physical,10,Normal
+Superpower,100,120,Physical,5,Fighting
+Supersonic,55,0,Status,20,Normal
+Supersonic Skystrike,TRUE,1,Physical,1,Flying
+Surf,100,90,Special,15,Water
+Surging Strikes,100,25,Physical,5,Water
+Swagger,85,0,Status,15,Normal
+Swallow,TRUE,0,Status,10,Normal
+Sweet Kiss,75,0,Status,10,Fairy
+Sweet Scent,100,0,Status,20,Normal
+Swift,TRUE,60,Special,20,Normal
+Switcheroo,100,0,Status,10,Dark
+Swords Dance,TRUE,0,Status,20,Normal
+Synchronoise,100,120,Special,10,Psychic
+Synthesis,TRUE,0,Status,5,Grass
+Tackle,100,40,Physical,35,Normal
+Tail Glow,TRUE,0,Status,20,Bug
+Tail Slap,85,25,Physical,10,Normal
+Tail Whip,100,0,Status,30,Normal
+Tailwind,TRUE,0,Status,15,Flying
+Take Down,85,90,Physical,20,Normal
+Take Heart,TRUE,0,Status,15,Psychic
+Tar Shot,100,0,Status,15,Rock
+Taunt,100,0,Status,20,Dark
+Tearful Look,TRUE,0,Status,20,Normal
+Teatime,TRUE,0,Status,10,Normal
+Techno Blast,100,120,Special,5,Normal
+Tectonic Rage,TRUE,1,Physical,1,Ground
+Teeter Dance,100,0,Status,20,Normal
+Telekinesis,TRUE,0,Status,15,Psychic
+Teleport,TRUE,0,Status,20,Psychic
+Tera Blast,100,80,Special,10,Normal
+Terrain Pulse,100,50,Special,10,Normal
+Thief,100,60,Physical,25,Dark
+Thousand Arrows,100,90,Physical,10,Ground
+Thousand Waves,100,90,Physical,10,Ground
+Thrash,100,120,Physical,10,Normal
+Throat Chop,100,80,Physical,15,Dark
+Thunder,70,110,Special,10,Electric
+Thunderbolt,100,90,Special,15,Electric
+Thunder Cage,90,80,Special,15,Electric
+Thunder Fang,95,65,Physical,15,Electric
+Thunderous Kick,100,90,Physical,10,Fighting
+Thunder Punch,100,75,Physical,15,Electric
+Thunder Shock,100,40,Special,30,Electric
+Thunder Wave,90,0,Status,20,Electric
+Tickle,100,0,Status,20,Normal
+Tidy Up,TRUE,0,Status,10,Normal
+Topsy-Turvy,TRUE,0,Status,20,Dark
+Torch Song,100,80,Special,10,Fire
+Torment,100,0,Status,15,Dark
+Toxic,90,0,Status,10,Poison
+Toxic Spikes,TRUE,0,Status,20,Poison
+Toxic Thread,100,0,Status,20,Poison
+Trailblaze,100,50,Physical,20,Grass
+Transform,TRUE,0,Status,10,Normal
+Tri Attack,100,80,Special,10,Normal
+Trick,100,0,Status,10,Psychic
+Trick-or-Treat,100,0,Status,20,Ghost
+Trick Room,TRUE,0,Status,5,Psychic
+Triple Arrows,100,90,Physical,10,Fighting
+Triple Axel,90,20,Physical,10,Ice
+Triple Dive,95,30,Physical,10,Water
+Triple Kick,90,10,Physical,10,Fighting
+Trop Kick,100,70,Physical,15,Grass
+Trump Card,TRUE,0,Special,5,Normal
+Twin Beam,100,40,Special,10,Psychic
+Twineedle,100,25,Physical,20,Bug
+Twinkle Tackle,TRUE,1,Physical,1,Fairy
+Twister,100,40,Special,20,Dragon
+U-turn,100,70,Physical,20,Bug
+Uproar,100,90,Special,10,Normal
+Vacuum Wave,100,40,Special,30,Fighting
+V-create,95,180,Physical,5,Fire
+Veevee Volley,TRUE,0,Physical,20,Normal
+Venom Drench,100,0,Status,20,Poison
+Venoshock,100,65,Special,10,Poison
+Victory Dance,TRUE,0,Status,10,Fighting
+Vine Whip,100,45,Physical,25,Grass
+Vise Grip,100,55,Physical,30,Normal
+Vital Throw,TRUE,70,Physical,10,Fighting
+Volt Switch,100,70,Special,20,Electric
+Volt Tackle,100,120,Physical,15,Electric
+Wake-Up Slap,100,70,Physical,10,Fighting
+Waterfall,100,80,Physical,15,Water
+Water Gun,100,40,Special,25,Water
+Water Pledge,100,80,Special,10,Water
+Water Pulse,100,60,Special,20,Water
+Water Shuriken,100,15,Special,20,Water
+Water Sport,TRUE,0,Status,15,Water
+Water Spout,100,150,Special,5,Water
+Wave Crash,100,120,Physical,10,Water
+Weather Ball,100,50,Special,10,Normal
+Whirlpool,85,35,Special,15,Water
+Whirlwind,TRUE,0,Status,20,Normal
+Wicked Blow,100,75,Physical,5,Dark
+Wicked Torque,100,80,Physical,10,Dark
+Wide Guard,TRUE,0,Status,10,Rock
+Wildbolt Storm,80,100,Special,10,Electric
+Wild Charge,100,90,Physical,15,Electric
+Will-O-Wisp,85,0,Status,15,Fire
+Wing Attack,100,60,Physical,35,Flying
+Wish,TRUE,0,Status,10,Normal
+Withdraw,TRUE,0,Status,40,Water
+Wonder Room,TRUE,0,Status,10,Psychic
+Wood Hammer,100,120,Physical,15,Grass
+Work Up,TRUE,0,Status,30,Normal
+Worry Seed,100,0,Status,10,Grass
+Wrap,90,15,Physical,20,Normal
+Wring Out,100,0,Special,5,Normal
+X-Scissor,100,80,Physical,15,Bug
+Yawn,TRUE,0,Status,10,Normal
+Zap Cannon,50,120,Special,5,Electric
+Zen Headbutt,90,80,Physical,15,Psychic
+Zing Zap,100,80,Physical,10,Electric
+Zippy Zap,100,80,Physical,10,Electric
